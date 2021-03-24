@@ -1,2 +1,3 @@
-# DSwR
-Data Science with R scripts. Analysis, engineering, visualization practice
+# PythonDataScience
+Data Science with python. Analysis, engineering, visualization practice
+Follows the IBM coursera notebooks
